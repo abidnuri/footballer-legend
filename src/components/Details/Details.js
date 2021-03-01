@@ -17,7 +17,7 @@ const Details = (props) => {
                 <p>Sallary: ${sallary}</p>
                 <button onClick={()=> props.handleAddPlayer(props.details)} className="btn btn-primary">
                     Add to your club
-                <FontAwesomeIcon icon={faUserPlus} />
+                <FontAwesomeIcon className="ml-2" icon={faUserPlus} />
                 </button>
             </div>
         </div>
