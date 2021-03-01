@@ -1,4 +1,6 @@
 .strong-club{
     border: 1px solid lightblue;
     padding: 15px;
+    background-color: gray;
+    color: white;
 }
