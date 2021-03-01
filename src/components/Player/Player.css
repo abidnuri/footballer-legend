@@ -1,0 +1,13 @@
+.player-container{
+    display:flex;
+}
+.player-details{
+    padding: 5px;
+    width: 70%;
+    border-right: 1px solid lightgray;
+    margin-left: 20px;
+}
+.player-single{
+    padding: 5px;
+    margin-left: 5px;
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "img": "https://gossipgist.com/uploads/19/lionel-messi.jpg",
+    "sallary": 26000,
+    "email": "sfrays0@chicagotribune.com",
+    "gender": "Male",
+    "ip_address": "188.58.105.110"
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+    "sallary": 18000,
+    "email": "jkaesmans1@omniture.com",
+    "gender": "male",
+    "ip_address": "111.21.235.174"
+  },
+  {
+    "id": 3,
+    "name": "Mohamed Salah",
+    "img": "https://articlebio.com/uploads/biography/2018/03/20/mohamed-salah.jpg",
+    "sallary": 2100,
+    "email": "jscawen2@a8.net",
+    "gender": "Genderfluid",
+    "ip_address": "137.96.48.126"
+  },
+  {
+    "id": 4,
+    "name": "Paulo Dybala",
+    "img": "https://idolwiki.com/pics/PauloDybala/PauloDybala.jpg",
+    "sallary": 20000,
+    "email": "vdumbrall3@goo.gl",
+    "gender": "Genderqueer",
+    "ip_address": "252.30.168.244"
+  },
+  {
+    "id": 5,
+    "name": "Neymar",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_850_1701.jpg",
+    "sallary": 13000,
+    "email": "eclampe4@domainmarket.com",
+    "gender": "Bigender",
+    "ip_address": "43.152.44.186"
+  },
+  {
+    "id": 6,
+    "name": "Mbappe",
+    "img": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1366x450:1368x448)/origin-imgresizer.eurosport.com/2021/01/20/2975123-61058268-2560-1440.jpg",
+    "sallary": 12000,
+    "email": "eworboys5@hibu.com",
+    "gender": "Genderfluid",
+    "ip_address": "246.210.23.85"
+  },
+  {
+    "id": 7,
+    "name": "Willy Caballero",
+    "img": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2018/06/caba.jpg",
+    "sallary": 500,
+    "email": "atrobridge6@photobucket.com",
+    "gender": "Non-binary",
+    "ip_address": "15.148.121.220"
+  },
+  {
+    "id": 8,
+    "name": "Sergio Ramos",
+    "img": "https://s.hs-data.com/bilder/spieler/gross/19198.jpg",
+    "sallary": 1900,
+    "email": "fmcgilben7@wikia.com",
+    "gender": "Polygender",
+    "ip_address": "159.216.198.240"
+  },
+  {
+    "id": 9,
+    "name": "Luka Modrić",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/ISL-HRV_%287%29.jpg",
+    "sallary": 14000,
+    "email": "creddihough8@weibo.com",
+    "gender": "Male",
+    "ip_address": "63.105.24.139"
+  },
+  {
+    "id": 10,
+    "name": "Harry Kane",
+    "img": "https://resources.premierleague.com/premierleague/photos/players/250x250/p78830.png",
+    "sallary": 1000,
+    "email": "elabrenz9@twitter.com",
+    "gender": "Female",
+    "ip_address": "245.152.181.136"
+  },
+  {
+    "id": 11,
+    "name": "Ángel Di María",
+    "img": "https://s.hs-data.com/bilder/spieler/gross/43864.jpg",
+    "sallary": 17000,
+    "email": "creddihough8@weibo.com",
+    "gender": "Male",
+    "ip_address": "63.105.24.139"
+  }
+]

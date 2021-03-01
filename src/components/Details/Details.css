@@ -1,0 +1,17 @@
+.single-player{
+    display: flex;
+    padding: 10px;
+    border: 1px solid lightblue;
+    margin: 10px;
+}
+.single-player img{
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+.add-btn{
+    cursor: pointer;
+    padding: 10px;
+    background-color: cornflowerblue;
+    color: #fff;
+}
