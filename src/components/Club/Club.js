@@ -6,13 +6,15 @@ const Club = (props) => {
     //console.log(add);
     const totalBudget = add.reduce((totalBudget, amount) => totalBudget + amount.sallary, 0);
     // const playerName = add.reduce((playerName, plyName) => plyName + playerName.name, 0);
-    const playerName = add.map(plr => plr.name)
+    const playerName = add.map(plr => <li>{plr.name}</li>)
     return (
-        <div>
+        <div className="strong-club">
             <h3>Your Strong Club</h3>
             <h3>Total Player Added: {add.length}</h3>
-            <p>Selected Player:{playerName} <br/></p>
-            <p>Total Budget: {totalBudget}</p>
+            <p>
+                <b>Selected Player: </b>{playerName}
+            </p>
+            <p><b>Total Budget: </b>${totalBudget}</p>
         </div>
     );
 };
