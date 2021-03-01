@@ -2,9 +2,8 @@ import React from 'react';
 import './Club.css';
 
 const Club = (props) => {
-    // const { name } = props.details;
     const add = props.add;
-    console.log(add);
+    //console.log(add);
     const totalBudget = add.reduce((totalBudget, amount) => totalBudget + amount.sallary, 0);
     // const playerName = add.reduce((playerName, plyName) => plyName + playerName.name, 0);
     const playerName = add.map(plr => plr.name)

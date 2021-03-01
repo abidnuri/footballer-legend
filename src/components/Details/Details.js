@@ -4,7 +4,7 @@ import { faUserPlus } from '@fortawesome/free-solid-svg-icons'
 import './Details.css';
 
 const Details = (props) => {
-    console.log(props.details.name);
+    //console.log(props.details.name);
     const { img, name, sallary } = props.details
     return (
         <div className="single-player">

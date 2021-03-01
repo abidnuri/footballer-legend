@@ -12,7 +12,7 @@ const Player = () => {
 
     useEffect(() => {
         setPlayers(playerData);
-        console.log(playerData);
+        //console.log(playerData);
     }, [])
 
     const handleAddPlayer = (details) => {
